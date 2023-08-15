@@ -1,0 +1,68 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/users/guest/n/nielstur/CS 236/Project_2/Automaton.h
+Token.h
+/users/guest/n/nielstur/CS 236/Project_2/Token.h
+
+/users/guest/n/nielstur/CS 236/Project_2/DatalogProgram.h
+Parameter.h
+/users/guest/n/nielstur/CS 236/Project_2/Parameter.h
+Predicate.h
+/users/guest/n/nielstur/CS 236/Project_2/Predicate.h
+Rule.h
+/users/guest/n/nielstur/CS 236/Project_2/Rule.h
+vector
+-
+
+/users/guest/n/nielstur/CS 236/Project_2/Lexer.h
+vector
+-
+Automaton.h
+/users/guest/n/nielstur/CS 236/Project_2/Automaton.h
+Token.h
+/users/guest/n/nielstur/CS 236/Project_2/Token.h
+
+/users/guest/n/nielstur/CS 236/Project_2/Parameter.h
+
+/users/guest/n/nielstur/CS 236/Project_2/Parser.cpp
+Parser.h
+/users/guest/n/nielstur/CS 236/Project_2/Parser.h
+iostream
+-
+
+/users/guest/n/nielstur/CS 236/Project_2/Parser.h
+DatalogProgram.h
+/users/guest/n/nielstur/CS 236/Project_2/DatalogProgram.h
+Token.h
+/users/guest/n/nielstur/CS 236/Project_2/Token.h
+
+/users/guest/n/nielstur/CS 236/Project_2/Predicate.h
+
+/users/guest/n/nielstur/CS 236/Project_2/Rule.h
+
+/users/guest/n/nielstur/CS 236/Project_2/Token.h
+string
+-
+sstream
+-
+
+/users/guest/n/nielstur/CS 236/Project_2/main.cpp
+Parser.h
+/users/guest/n/nielstur/CS 236/Project_2/Parser.h
+Lexer.h
+/users/guest/n/nielstur/CS 236/Project_2/Lexer.h
+iostream
+-
+cctype
+-
+fstream
+-
+sstream
+-
+

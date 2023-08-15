@@ -1,0 +1,128 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/users/guest/n/nielstur/CS 236/Project_3/Automaton.h
+Token.h
+/users/guest/n/nielstur/CS 236/Project_3/Token.h
+
+/users/guest/n/nielstur/CS 236/Project_3/Database.cpp
+Database.h
+/users/guest/n/nielstur/CS 236/Project_3/Database.h
+
+/users/guest/n/nielstur/CS 236/Project_3/Database.h
+map
+-
+Relation.h
+/users/guest/n/nielstur/CS 236/Project_3/Relation.h
+
+/users/guest/n/nielstur/CS 236/Project_3/DatalogProgram.h
+Parameter.h
+/users/guest/n/nielstur/CS 236/Project_3/Parameter.h
+Predicate.h
+/users/guest/n/nielstur/CS 236/Project_3/Predicate.h
+Rule.h
+/users/guest/n/nielstur/CS 236/Project_3/Rule.h
+vector
+-
+set
+-
+
+/users/guest/n/nielstur/CS 236/Project_3/Header.h
+vector
+-
+string
+-
+
+/users/guest/n/nielstur/CS 236/Project_3/Interpreter.cpp
+Interpreter.h
+/users/guest/n/nielstur/CS 236/Project_3/Interpreter.h
+
+/users/guest/n/nielstur/CS 236/Project_3/Interpreter.h
+DatalogProgram.h
+/users/guest/n/nielstur/CS 236/Project_3/DatalogProgram.h
+Database.h
+/users/guest/n/nielstur/CS 236/Project_3/Database.h
+iostream
+-
+
+/users/guest/n/nielstur/CS 236/Project_3/Lexer.h
+vector
+-
+Automaton.h
+/users/guest/n/nielstur/CS 236/Project_3/Automaton.h
+Token.h
+/users/guest/n/nielstur/CS 236/Project_3/Token.h
+
+/users/guest/n/nielstur/CS 236/Project_3/Parameter.h
+string
+-
+sstream
+-
+Token.h
+/users/guest/n/nielstur/CS 236/Project_3/Token.h
+
+/users/guest/n/nielstur/CS 236/Project_3/Parser.h
+DatalogProgram.h
+/users/guest/n/nielstur/CS 236/Project_3/DatalogProgram.h
+Token.h
+/users/guest/n/nielstur/CS 236/Project_3/Token.h
+
+/users/guest/n/nielstur/CS 236/Project_3/Predicate.h
+vector
+-
+Parameter.h
+/users/guest/n/nielstur/CS 236/Project_3/Parameter.h
+
+/users/guest/n/nielstur/CS 236/Project_3/Relation.cpp
+Relation.h
+/users/guest/n/nielstur/CS 236/Project_3/Relation.h
+
+/users/guest/n/nielstur/CS 236/Project_3/Relation.h
+Tuple.h
+/users/guest/n/nielstur/CS 236/Project_3/Tuple.h
+Header.h
+/users/guest/n/nielstur/CS 236/Project_3/Header.h
+set
+-
+sstream
+-
+
+/users/guest/n/nielstur/CS 236/Project_3/Rule.h
+Predicate.h
+/users/guest/n/nielstur/CS 236/Project_3/Predicate.h
+
+/users/guest/n/nielstur/CS 236/Project_3/Token.h
+string
+-
+sstream
+-
+
+/users/guest/n/nielstur/CS 236/Project_3/Tuple.h
+vector
+-
+string
+-
+sstream
+-
+
+/users/guest/n/nielstur/CS 236/Project_3/main.cpp
+Parser.h
+/users/guest/n/nielstur/CS 236/Project_3/Parser.h
+Lexer.h
+/users/guest/n/nielstur/CS 236/Project_3/Lexer.h
+Interpreter.h
+/users/guest/n/nielstur/CS 236/Project_3/Interpreter.h
+iostream
+-
+cctype
+-
+fstream
+-
+sstream
+-
+

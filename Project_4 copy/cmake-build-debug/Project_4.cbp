@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project_4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project_4">
+				<Option output="/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug/Project_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project_4"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project_4/fast">
+				<Option output="/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug/Project_4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project_4/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/nielsturley/CLionProjects/Project_4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/AddAutomaton.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/AddAutomaton.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Automaton.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/ColonAutomaton.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/ColonAutomaton.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/ColonDashAutomaton.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/ColonDashAutomaton.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/CommaAutomaton.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/CommaAutomaton.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Database.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Database.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/DatalogProgram.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/DatalogProgram.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/FactsAutomaton.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/FactsAutomaton.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Header.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Header.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/IDAutomaton.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/IDAutomaton.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Interpreter.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Interpreter.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Left_ParenAutomaton.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Left_ParenAutomaton.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Lexer.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Lexer.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/MLCommentAutomaton.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/MLCommentAutomaton.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/MultiplyAutomaton.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/MultiplyAutomaton.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Parameter.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Parameter.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Parser.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Parser.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/PeriodAutomaton.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/PeriodAutomaton.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Predicate.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Predicate.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Q_MarkAutomaton.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Q_MarkAutomaton.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/QueriesAutomaton.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/QueriesAutomaton.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Relation.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Relation.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Right_ParenAutomaton.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Right_ParenAutomaton.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Rule.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Rule.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/RulesAutomaton.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/RulesAutomaton.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/SLCommentAutomaton.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/SLCommentAutomaton.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/SchemesAutomaton.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/SchemesAutomaton.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/StringAutomaton.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/StringAutomaton.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Token.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Token.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Tuple.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/Tuple.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/UndefinedAutomaton.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/UndefinedAutomaton.h">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/main.cpp">
+			<Option target="Project_4"/>
+		</Unit>
+		<Unit filename="/Users/nielsturley/CLionProjects/Project_4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
